@@ -1,0 +1,84 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+ "patterns": [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Good morning",
+    "What's up",
+    "Good evening"
+  ],
+  "responses": [
+    "Hello!",
+    "Hi there!",
+    "Hey!",
+    "Nice to see you!",
+    "Hello! How can I help you today?",
+    "Hey there! What can I help you with?",
+    "Hi! Need any help?"
+  ]
+    },
+    {
+      "tag": "library_hours",
+      "patterns": [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Good morning",
+    "What's up",
+    "Good evening"
+  ],
+  "responses": [
+    "Hello!",
+    "Hi there!",
+    "Hey!",
+    "Nice to see you!",
+    "Hello! How can I help you today?",
+    "Hey there! What can I help you with?",
+    "Hi! Need any help?"
+  ]
+    },
+    {
+      "tag": "issue_book",
+       "patterns": [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Good morning",
+    "What's up",
+    "Good evening"
+  ],
+  "responses": [
+    "Hello!",
+    "Hi there!",
+    "Hey!",
+    "Nice to see you!",
+    "Hello! How can I help you today?",
+    "Hey there! What can I help you with?",
+    "Hi! Need any help?"
+  ]
+    },
+    {
+      "tag": "goodbye",
+       "patterns": [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Good morning",
+    "What's up",
+    "Good evening"
+  ],
+  "responses": [
+    "Hello!",
+    "Hi there!",
+    "Hey!",
+    "Nice to see you!",
+    "Hello! How can I help you today?",
+    "Hey there! What can I help you with?",
+    "Hi! Need any help?"
+  ]
+    }
+  ]
+}
